@@ -1,7 +1,6 @@
 import React from 'react';
 
-const card = (props) => {
-    const { id, name, email } = props;
+const card = ({ id, name, email }) => {
 
     return (
         <div className="tc bg-light-red dib br3 pa3 ma2 grow bw2 shadow-5">
