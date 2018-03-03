@@ -2,4 +2,6 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  background: linear-gradient(to right, red , rgb(235, 235, 17)); /* Standard syntax */
+
 }
